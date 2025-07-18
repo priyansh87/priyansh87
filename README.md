@@ -53,7 +53,7 @@
 - 🥇 **1st Place** – Nexathon 2: Built a GenAI-powered platform with `LangChain`, `Gemini`, `MERN`, and `Blockchain`
 - 🥈 **2nd Place** – Matrix 2.0: Developed an AI + Web3 solution with real-time medicine access
 - 📚 Self-taught AI Developer – building projects using docs, not tutorials
-- ✍️ Active tech blogger on [Hashnode](https://priyansh05.hashnode.dev)
+- ✍️ Active tech blogger on [Hashnode](https://hashnode.com/@priyansh05)
 
 ---
 
@@ -70,6 +70,6 @@
 
 <p align="left">
   <a href="mailto:priyansh56701@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/priyansh-padhi/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://priyansh05.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode" /></a>
+  <a href="https://www.linkedin.com/in/priyansh-padhi-88b232325/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://hashnode.com/@priyansh05"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode" /></a>
 </p>
